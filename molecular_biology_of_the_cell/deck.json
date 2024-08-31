@@ -1,0 +1,1069 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "47119d55-6749-11ef-9e70-68cac4949555",
+    "deck_config_uuid": "97bc4121-6696-11ef-bd12-68cac4949555",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "97bc4121-6696-11ef-bd12-68cac4949555",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "_logseq_anki_sync.css",
+        "_logseq_anki_sync.js",
+        "_logseq_anki_sync_back.css",
+        "_logseq_anki_sync_back.js",
+        "_logseq_anki_sync_front.css",
+        "_logseq_anki_sync_front.js"
+    ],
+    "name": "molecular_biology_of_the_cell",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "css": "",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8119452567685571921,
+                    "name": "uuid-type",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 4438542824054624342,
+                    "name": "uuid",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 2030433335481847861,
+                    "name": "Text",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -3130304593813432657,
+                    "name": "Extra",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 4468425415564535867,
+                    "name": "Breadcrumb",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 4424900484010583941,
+                    "name": "Config",
+                    "ord": 5,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "logs_1Model",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "<script src=\"_logseq_anki_sync_back.js\" type='text/javascript' async=false defer=false></script>\n        <script src=\"_logseq_anki_sync.js\" async=\"false\" defer=\"false\"></script>\n<script async=\"false\" defer=\"false\">\n    var config = {};\n    var uuid_type = \"\";\n    var type = \"\";\n    var style, load_event;\n    var process = {'env': { 'NODE_DEBUG': false }}; // required for difflib to work correctly\n    var keydownHandler;\n\n</script>\n<script async=\"false\" defer=\"false\">\n    try {\n        config = JSON.parse(`{{Config}}`);\n        uuid_type = `{{uuid-type}}`;\n        type = uuid_type.split(\"-\").pop();\n    } catch (e) {\n        console.log(e);\n    }\n</script>\n<script async=\"false\" defer=\"false\">\n    style = document.createElement(\"style\");\n    if (type == \"image_occlusion\")\n        style.textContent = `\n            #main-content {\n                visibility: hidden;\n            }\n        `;\n    else\n        style.textContent = `\n            #main-content {\n                visibility: visible;\n            }\n        `;\n    document.body.appendChild(style);\n</script>\n<script async=\"false\" defer=\"false\">\n    if (keydownHandler) {\n        document.removeEventListener('keydown', keydownHandler, true);\n    }\n    function keydownMethod(event) {\n        if (event.shiftKey) {\n            if (event.keyCode === 74) {\n                scrollToClozeElement();\n            } else if (event.keyCode === 75) {\n                openBlockInLogseq('{{uuid}}');\n            } else if (event.keyCode === 76) {\n                window.scroll(0, 0);\n            }\n        }\n    }\n    keydownHandler = keydownMethod;\n    document.addEventListener('keydown', keydownHandler, true);\n</script>\n<div style=\"display: flex; justify-content: space-between\" role=\"menubar\">\n    <div class=\"bubble breadcrumb2\">{{Breadcrumb}}</div>\n    <div class=\"note-actions\">\n        <span\n            class=\"note-action bubble\"\n            onclick=\"openBlockInLogseq('{{uuid}}')\"\n            title=\"Open block in Logseq\"\n            aria-label=\"Open block in Logseq\"\n            >➡️</span\n        >\n        <span\n            class=\"note-action bubble\"\n            onclick=\"scrollToClozeElement()\"\n            title=\"Scroll to cloze\"\n            aria-label=\"Scroll to cloze\"\n            >⏬</span\n        >\n    </div>\n</div>\n<span id=\"main-content\" role=\"region\">\n    <span class=\"text\"> {{cloze:Text}} </span>\n    <span class=\"type-in-container center\" style=\"display: none;\">\n        <hr />\n        <input type=\"text\" id=\"typeans\" class=\"typePrompt\" style=\"font-family: 'Arial'; font-size: 20px;\" />\n    </span>\n    <div class=\"extra\">{{Extra}}</div>\n</span>\n<div id=\"additionalData\" class=\"hidden\">\n    <div id=\"deck\" deck_name=\"{{Deck}}\"></div>\n    <div id=\"tags\" tags_name=\"{{Tags}}\"></div>\n</div>\n<script async=\"false\" defer=\"false\">\n    load_event = new Event(\"load\");\n    window.dispatchEvent(load_event);\n</script>\n<link rel=\"stylesheet\" href=\"_logseq_anki_sync.css\" />\n\n        <span style=\"display: none\" class=\"anki-card-back-side\"></span>\n        <link rel=\"stylesheet\" href=\"_logseq_anki_sync_back.css\">",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -4749917002664092633,
+                    "name": "Card",
+                    "ord": 0,
+                    "qfmt": "<script src=\"_logseq_anki_sync_front.js\" type='text/javascript' async=false defer=false></script>\n        <script src=\"_logseq_anki_sync.js\" async=\"false\" defer=\"false\"></script>\n<script async=\"false\" defer=\"false\">\n    var config = {};\n    var uuid_type = \"\";\n    var type = \"\";\n    var style, load_event;\n    var process = {'env': { 'NODE_DEBUG': false }}; // required for difflib to work correctly\n    var keydownHandler;\n\n</script>\n<script async=\"false\" defer=\"false\">\n    try {\n        config = JSON.parse(`{{Config}}`);\n        uuid_type = `{{uuid-type}}`;\n        type = uuid_type.split(\"-\").pop();\n    } catch (e) {\n        console.log(e);\n    }\n</script>\n<script async=\"false\" defer=\"false\">\n    style = document.createElement(\"style\");\n    if (type == \"image_occlusion\")\n        style.textContent = `\n            #main-content {\n                visibility: hidden;\n            }\n        `;\n    else\n        style.textContent = `\n            #main-content {\n                visibility: visible;\n            }\n        `;\n    document.body.appendChild(style);\n</script>\n<script async=\"false\" defer=\"false\">\n    if (keydownHandler) {\n        document.removeEventListener('keydown', keydownHandler, true);\n    }\n    function keydownMethod(event) {\n        if (event.shiftKey) {\n            if (event.keyCode === 74) {\n                scrollToClozeElement();\n            } else if (event.keyCode === 75) {\n                openBlockInLogseq('{{uuid}}');\n            } else if (event.keyCode === 76) {\n                window.scroll(0, 0);\n            }\n        }\n    }\n    keydownHandler = keydownMethod;\n    document.addEventListener('keydown', keydownHandler, true);\n</script>\n<div style=\"display: flex; justify-content: space-between\" role=\"menubar\">\n    <div class=\"bubble breadcrumb2\">{{Breadcrumb}}</div>\n    <div class=\"note-actions\">\n        <span\n            class=\"note-action bubble\"\n            onclick=\"openBlockInLogseq('{{uuid}}')\"\n            title=\"Open block in Logseq\"\n            aria-label=\"Open block in Logseq\"\n            >➡️</span\n        >\n        <span\n            class=\"note-action bubble\"\n            onclick=\"scrollToClozeElement()\"\n            title=\"Scroll to cloze\"\n            aria-label=\"Scroll to cloze\"\n            >⏬</span\n        >\n    </div>\n</div>\n<span id=\"main-content\" role=\"region\">\n    <span class=\"text\"> {{cloze:Text}} </span>\n    <span class=\"type-in-container center\" style=\"display: none;\">\n        <hr />\n        <input type=\"text\" id=\"typeans\" class=\"typePrompt\" style=\"font-family: 'Arial'; font-size: 20px;\" />\n    </span>\n    <div class=\"extra\">{{Extra}}</div>\n</span>\n<div id=\"additionalData\" class=\"hidden\">\n    <div id=\"deck\" deck_name=\"{{Deck}}\"></div>\n    <div id=\"tags\" tags_name=\"{{Tags}}\"></div>\n</div>\n<script async=\"false\" defer=\"false\">\n    load_event = new Event(\"load\");\n    window.dispatchEvent(load_event);\n</script>\n<link rel=\"stylesheet\" href=\"_logseq_anki_sync.css\" />\n\n        <span style=\"display: none\" class=\"anki-card-front-side\"></span>\n        <link rel=\"stylesheet\" href=\"_logseq_anki_sync_front.css\">"
+                }
+            ],
+            "type": 1
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d26d95-fcc3-45db-91f9-6835100f6008-multiline_card",
+                "66d26d95-fcc3-45db-91f9-6835100f6008",
+                "\n      <span>water molecules are liquid at room temperature with a high surface tension and boiling point because. <a class=\"tag\" data-ref=\"card\" href=\"logseq://graph/logs_1?page=card\"></a> <a class=\"tag\" data-ref=\"forward\" href=\"logseq://graph/logs_1?page=forward\"></a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>The hydrogen bonds between oxygen and hydrogen of different molecules are constantly forming and breaking due to heat. In this sense, water is essentially a network.</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"14916e60\",\"assets\":[]}"
+            ],
+            "guid": "KT|iQl&|1(",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "card",
+                "forward"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d26dc6-5a0e-4db9-9984-623ccffdcd78-multiline_card",
+                "66d26dc6-5a0e-4db9-9984-623ccffdcd78",
+                "{{c2::\n      <span>Carboxyl Group <a class=\"tag\" data-ref=\"card\" href=\"logseq://graph/logs_1?page=card\"></a> <a class=\"tag\" data-ref=\"bidirectional\" href=\"logseq://graph/logs_1?page=bidirectional\"></a>\n        <br>\n</span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>—COOH</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"5e9d25c6\",\"assets\":[]}"
+            ],
+            "guid": "oGsKgy(L@[",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "bidirectional",
+                "card"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d26e15-6fe8-4f76-950c-965d1b85cf16-multiline_card",
+                "66d26e15-6fe8-4f76-950c-965d1b85cf16",
+                "{{c2::\n      <span>Methyl <a class=\"tag\" data-ref=\"card\" href=\"logseq://graph/logs_1?page=card\"></a> <a class=\"tag\" data-ref=\"bidirectional\" href=\"logseq://graph/logs_1?page=bidirectional\"></a>\n        <br>\n</span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>—CH3</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"9083c73c\",\"assets\":[]}"
+            ],
+            "guid": "o*IXq_sq^H",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "bidirectional",
+                "card"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d26e2c-f1d6-4d7d-ac4b-56bafac48375-multiline_card",
+                "66d26e2c-f1d6-4d7d-ac4b-56bafac48375",
+                "{{c2::\n      <span>Hydroxyl <a class=\"tag\" data-ref=\"card\" href=\"logseq://graph/logs_1?page=card\"></a> <a class=\"tag\" data-ref=\"bidirectional\" href=\"logseq://graph/logs_1?page=bidirectional\"></a>\n        <br>\n</span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>—OH</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"32f5845c\",\"assets\":[]}"
+            ],
+            "guid": "v.cf$jsX97",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "bidirectional",
+                "card"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d26e55-e99c-423c-9d75-4e8db2732732-multiline_card",
+                "66d26e55-e99c-423c-9d75-4e8db2732732",
+                "{{c2::\n      <span>Carbonyl <a class=\"tag\" data-ref=\"card\" href=\"logseq://graph/logs_1?page=card\"></a> <a class=\"tag\" data-ref=\"bidirectional\" href=\"logseq://graph/logs_1?page=bidirectional\"></a>\n        <br>\n</span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>—C=O</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"152cbe26\",\"assets\":[]}"
+            ],
+            "guid": "B;f7DZfMI-",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "bidirectional",
+                "card"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d26e7b-79eb-402b-8887-eef9d7ed0303-multiline_card",
+                "66d26e7b-79eb-402b-8887-eef9d7ed0303",
+                "{{c2::\n      <span>Phosphate <a class=\"tag\" data-ref=\"card\" href=\"logseq://graph/logs_1?page=card\"></a> <a class=\"tag\" data-ref=\"bidirectional\" href=\"logseq://graph/logs_1?page=bidirectional\"></a>\n        <br>\n</span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>—PO\\[_3^{2-}\\]</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"2404030c\",\"assets\":[]}"
+            ],
+            "guid": "sg-|r+g@~k",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "bidirectional",
+                "card"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d26e9f-7db6-4861-8794-683e8ecb2792-multiline_card",
+                "66d26e9f-7db6-4861-8794-683e8ecb2792",
+                "{{c2::\n      <span>Sulfhydryl <a class=\"tag\" data-ref=\"card\" href=\"logseq://graph/logs_1?page=card\"></a> <a class=\"tag\" data-ref=\"bidirectional\" href=\"logseq://graph/logs_1?page=bidirectional\"></a>\n        <br>\n</span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>—SH</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"b76767bc\",\"assets\":[]}"
+            ],
+            "guid": "AvW,)g/oAt",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "bidirectional",
+                "card"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d26eae-5bf8-43f9-ba32-4b7cf7ce3cf1-multiline_card",
+                "66d26eae-5bf8-43f9-ba32-4b7cf7ce3cf1",
+                "{{c2::\n      <span>Amino <a class=\"tag\" data-ref=\"card\" href=\"logseq://graph/logs_1?page=card\"></a> <a class=\"tag\" data-ref=\"bidirectional\" href=\"logseq://graph/logs_1?page=bidirectional\"></a>\n        <br>\n</span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>—NH2</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"3d6975b7\",\"assets\":[]}"
+            ],
+            "guid": "Mi?!ue~$J5",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "bidirectional",
+                "card"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d26ec6-470e-4419-ab56-323b3c3eedcb-multiline_card",
+                "66d26ec6-470e-4419-ab56-323b3c3eedcb",
+                "{{c2::\n      <span>Aldehyde <a class=\"tag\" data-ref=\"card\" href=\"logseq://graph/logs_1?page=card\"></a> <a class=\"tag\" data-ref=\"bidirectional\" href=\"logseq://graph/logs_1?page=bidirectional\"></a>\n        <br>\n</span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>—COH</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"5265ee2c\",\"assets\":[]}"
+            ],
+            "guid": "W.AbVw/W%",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "bidirectional",
+                "card"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d26edc-f415-4ce3-817d-0d7eda36fbcb-cloze",
+                "66d26edc-f415-4ce3-817d-0d7eda36fbcb",
+                "\n      <span>The four main small organic molecules are {{c1::fatty acids}}, {{c2::nucleotides}}, {{c3::amino acids}}, and {{c4::sugars}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"079e9be0\",\"assets\":[]}"
+            ],
+            "guid": "O)sGNxCEbx",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d26f07-b213-4084-8859-942462056fad-cloze",
+                "66d26f07-b213-4084-8859-942462056fad",
+                "\n      <span>{{c1::histones}} {{c2::pack DNA into chromosomes}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"78dcf22a\",\"assets\":[]}"
+            ],
+            "guid": "e9!{[nw8^4",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d26f44-6875-45f3-ac21-1b7c53e25539-cloze",
+                "66d26f44-6875-45f3-ac21-1b7c53e25539",
+                "\n      <span>A {{c1::condensation}} reaction is when {{c2::two monomers join, one has a —H and the other a —OH. The two monomers join and emit a H2O}}. This reaction is energetically {{c3::unfavorable}}.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"47687f0d\",\"assets\":[]}"
+            ],
+            "guid": "so(%eSQLa4",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d26f9e-cc55-4353-9e93-cd2e585d2281-cloze",
+                "66d26f9e-cc55-4353-9e93-cd2e585d2281",
+                "\n      <span>A {{c1::hydrolysis}} reaction is when {{c2::a polymer is split, one of the monomer terminals takes an H and the other takes an OH}}. This reaction is energetically {{c3::favorable}}.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"647ecf97\",\"assets\":[]}"
+            ],
+            "guid": "nhMRg3p3R)",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27031-5f87-45db-87da-60631dcf5f04-cloze",
+                "66d27031-5f87-45db-87da-60631dcf5f04",
+                "\n      <span>The inverse of a {{c1::hydrolysis}} reaction is a {{c2::condensation}} reaction.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"418b1486\",\"assets\":[]}"
+            ],
+            "guid": "dmtD2>=41<",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d2703e-9ced-4abb-a53d-82f30fac45a1-cloze",
+                "66d2703e-9ced-4abb-a53d-82f30fac45a1",
+                "\n      <span>{{c1::Catalysts}} are composed of {{c2::enzymes}} and {{c3::ribozymes.}}</span>\n    ",
+                "\n      <span>Ribozymes are RNA catalysts</span>\n    ",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"7ac47a8a\",\"assets\":[]}"
+            ],
+            "guid": "H.Zlt*)gwO",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d2704c-3354-4c7c-962c-01d082075d87-cloze",
+                "66d2704c-3354-4c7c-962c-01d082075d87",
+                "\n      <span>The two types of metabolic pathways are {{c1::catabolic (emits energy by breaking down molecules)}} and {{c2::anabolic (consumes energy to synthesize molecules)}}.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"0c3145e4\",\"assets\":[]}"
+            ],
+            "guid": "i*>m7JCB%]",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d270b2-ea18-4553-a8be-241ecdef23fb-cloze",
+                "66d270b2-ea18-4553-a8be-241ecdef23fb",
+                "\n      <span>In a carbon atom, a(n) {{c1::reduction}} reaction occurs when the number of {{c2::C—H}} bonds increase.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"d822aaee\",\"assets\":[]}"
+            ],
+            "guid": "D5pz|SF;WD",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d270e6-a44a-49f5-99be-7664287a6678-cloze",
+                "66d270e6-a44a-49f5-99be-7664287a6678",
+                "\n      <span>In a carbon atom, a(n) {{c1::oxidation}} reaction occurs when the number of {{c2::C—H}} bonds decrease.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"2c636088\",\"assets\":[]}"
+            ],
+            "guid": "j(I:+#wnP.",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27123-6e06-4ad8-bfda-b1f362c428b9-cloze",
+                "66d27123-6e06-4ad8-bfda-b1f362c428b9",
+                "\n      <span>{{c1::Hydrogenation}} is when an atom picks up a {{c2::electron}} and a {{c2::proton}} at the same time.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"30b8c143\",\"assets\":[]}"
+            ],
+            "guid": "tuXWM[qK?R",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27158-448a-4db4-8b3d-ad3418475711-cloze",
+                "66d27158-448a-4db4-8b3d-ad3418475711",
+                "\n      <span>Hydrogenation is a(n) {{c1::reduction}} reaction.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"00f831e8\",\"assets\":[]}"
+            ],
+            "guid": "j/zT$/(pCu",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27178-e74d-4e12-885a-fbd8de5d3542-cloze",
+                "66d27178-e74d-4e12-885a-fbd8de5d3542",
+                "\n      <span>Dehydrogenation is a(n) {{c1::oxidation}} reaction.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"547c1173\",\"assets\":[]}"
+            ],
+            "guid": "l-Ajkecs@H",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d2718f-060d-4c28-9544-a7eea28e396a-cloze",
+                "66d2718f-060d-4c28-9544-a7eea28e396a",
+                "\n      <span>[T/F]: Enzymes can change the direction of a reaction. {{c1::false}}.</span>\n    ",
+                "\n      <span>Enzymes lower the energy required to reverse a reaction by the same magnitude that the lower the energy required for the normal reaction.</span>\n    ",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"4765a2c1\",\"assets\":[]}"
+            ],
+            "guid": "b{adi#sD;",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d271fb-6d72-4f2d-b150-3c19d9897f13-cloze",
+                "66d271fb-6d72-4f2d-b150-3c19d9897f13",
+                "\n      <span>The two electron carriers are {{c1::NADH}} and {{c1::NADPH}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"85df9a7c\",\"assets\":[]}"
+            ],
+            "guid": "Nb8)shwke<",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27215-94cf-42dc-b174-f20542e24a2b-cloze",
+                "66d27215-94cf-42dc-b174-f20542e24a2b",
+                "\n      <span>The electron carrier {{c1::NADH}} is an intermediary protein involved in the generation of {{c2::ATP}} in {{c2::catabolic}} reactions.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"1448b3d2\",\"assets\":[]}"
+            ],
+            "guid": "bSK4f2ji&X",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d2721e-c2fc-448a-b279-bb45db4c5fae-cloze",
+                "66d2721e-c2fc-448a-b279-bb45db4c5fae",
+                "\n      <span>{{c1::NADPH}} interacts with enzymes involved in {{c2::anabolic reactions}}, serving the purpose of {{c2::supplying the electron needed for expensive anabolic reactions}}.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"4d28f3f5\",\"assets\":[]}"
+            ],
+            "guid": "gUj/r;+_A{",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27289-eaf3-49d7-8e20-294bf14a73e2-cloze",
+                "66d27289-eaf3-49d7-8e20-294bf14a73e2",
+                "\n      <span>{{c1::Glycogen}} is used for short-term storage of energy, taking the form of a {{c2::large polysaccharide polymer}} composed of {{c3::glucose}} subunits.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"4c81a3b4\",\"assets\":[]}"
+            ],
+            "guid": "jTw.q(`Rjw",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d272c6-a597-4e4d-b06f-f77971d1280e-cloze",
+                "66d272c6-a597-4e4d-b06f-f77971d1280e",
+                "\n      <span>The biggest stores of {{c1::Glycogen}} are in the liver and muscle. The liver breaks down and releases its {{c2::polysaccharides}} when {{c3::sugar}} is scarce, where muscles hoard their own.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"de2be352\",\"assets\":[]}"
+            ],
+            "guid": "j1|za1nh+F",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27304-898d-4297-b52c-995dec5f8ba7-cloze",
+                "66d27304-898d-4297-b52c-995dec5f8ba7",
+                "\n      <span>Glycogen is stored in {{c1::the cytoplasm of cells}}.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"4a4922f6\",\"assets\":[]}"
+            ],
+            "guid": "e/H:*u2NbK",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27322-5873-49f7-b01f-4067f71fd3e0-cloze",
+                "66d27322-5873-49f7-b01f-4067f71fd3e0",
+                "\n      <span>{{c1::Triglycerides}} are stored in {{c2::adipocytes}}.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"634f098d\",\"assets\":[]}"
+            ],
+            "guid": "sMv<jY;:`:",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27372-2ce6-436f-bf62-34eb65602d8f-cloze",
+                "66d27372-2ce6-436f-bf62-34eb65602d8f",
+                "\n      <span>{{c1::Triglycerides}} take the form of {{c2::lipids}}, with one {{c3::glycerol}} molecule bound to three {{c3::fatty acid chains}}.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"c41f700e\",\"assets\":[]}"
+            ],
+            "guid": "QDwy-uM)]L",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d273a7-5de7-4877-a32b-a79b8bd372a2-cloze",
+                "66d273a7-5de7-4877-a32b-a79b8bd372a2",
+                "\n      <span>{{c1::Triglycerides}} are used for long-term energy storage and {{c1::Glycogen}} are used for short-term energy storage.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
+                "{\"dependencyHash\":\"463d6b94\",\"assets\":[]}"
+            ],
+            "guid": "y[2jbO:{Am",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27431-1e77-42dc-a0fc-28b1009f79ac-cloze",
+                "66d27431-1e77-42dc-a0fc-28b1009f79ac",
+                "\n      <span>Two common types of structures found in proteins: {{c1::alpha helices}} and {{c1::beta sheets}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
+                "{\"dependencyHash\":\"4cf3fead\",\"assets\":[]}"
+            ],
+            "guid": "y,j$[pP:79",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27463-d723-4411-8027-f7efa41b02ad-cloze",
+                "66d27463-d723-4411-8027-f7efa41b02ad",
+                "\n      <span>Is the 3D structure or the amino acid sequence more conserved in proteins? {{c1::structure}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
+                "{\"dependencyHash\":\"7751ee8b\",\"assets\":[]}"
+            ],
+            "guid": "L#p&Uuh+RG",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27478-66f3-4765-8846-cdce16ae6255-cloze",
+                "66d27478-66f3-4765-8846-cdce16ae6255",
+                "\n      <span>Some {{c1::macromolecular complexes}} require enzymes that {{c1::assist with building the complex}}, called {{c2::assembly factors}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
+                "{\"dependencyHash\":\"25ee5f42\",\"assets\":[]}"
+            ],
+            "guid": "zD[UK,%VBt",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d274b7-bf2a-4aaa-b6c1-fdd8b9195d7e-cloze",
+                "66d274b7-bf2a-4aaa-b6c1-fdd8b9195d7e",
+                "\n      <span>Some {{c1::macromolecular complexes}} form spontaneously when {{c2::their subunits are dissociated and mixed together}}, like the tobacco mosaic virus and ribosomes.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
+                "{\"dependencyHash\":\"1505e617\",\"assets\":[]}"
+            ],
+            "guid": "zxq/w80*(R",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27509-6563-4848-a058-1461e270a9be-cloze",
+                "66d27509-6563-4848-a058-1461e270a9be",
+                "\n      <span>{{c1::feedback}} or {{c1::negative inhibition}} is when a {{c2::product from a reaction late in a pathway inhibits an enzyme upstream of the pathway to slow the catalysis as the end product accumulates}}.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
+                "{\"dependencyHash\":\"0b45cc4e\",\"assets\":[]}"
+            ],
+            "guid": "oECOU(,em@",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d2753e-04cb-452a-995f-89382931fa99-cloze",
+                "66d2753e-04cb-452a-995f-89382931fa99",
+                "\n      <span>The term for when {{c1::a molecule binds to a protein and changes its function by causing a change in its conformation}} is called {{c2::allostery}}.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
+                "{\"dependencyHash\":\"60cc1f5c\",\"assets\":[]}"
+            ],
+            "guid": "PaoZW7yeJD",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27611-8bbf-4c48-9056-ac6d7a253901-cloze",
+                "66d27611-8bbf-4c48-9056-ac6d7a253901",
+                "\n      <span>{{c1::phosphorylation}}  refers to the process of {{c2::adding a phosphate group to a protein through a covalent bond}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
+                "{\"dependencyHash\":\"4a9c65eb\",\"assets\":[]}"
+            ],
+            "guid": "x<@&d:1E/A",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d2762c-501d-4331-adaf-edeb1a5a2d32-multiline_card",
+                "66d2762c-501d-4331-adaf-edeb1a5a2d32",
+                "\n      <span>Three common ways in which phosphate groups affect protein function <a class=\"tag\" data-ref=\"flashcard\" href=\"logseq://graph/logs_1?page=flashcard\"></a> <a class=\"tag\" data-ref=\"incremental\" href=\"logseq://graph/logs_1?page=incremental\"></a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>phosphates have two negative charges, so they affect protein conformation</span>\n     }}</li>\n<li class=\"children \">{{c3:: \n      <span>they can inhibit active sites</span>\n     }}</li>\n<li class=\"children \">{{c4:: \n      <span>they can form parts of structures recognized by other proteins</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
+                "{\"dependencyHash\":\"6a8ea944\",\"assets\":[]}"
+            ],
+            "guid": "dH/-=}RaMB",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "flashcard",
+                "incremental"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d2765c-c64c-4328-b04f-cb9d08b3dde9-cloze",
+                "66d2765c-c64c-4328-b04f-cb9d08b3dde9",
+                "\n      <span>a {{c1::phosphatase}} is {{c2::an enzyme that removes a phosphate group from a protein}}.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
+                "{\"dependencyHash\":\"39138f5a\",\"assets\":[]}"
+            ],
+            "guid": "r><o{L||y,",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d2767a-4b79-47cc-9860-4c386fd72852-cloze",
+                "66d2767a-4b79-47cc-9860-4c386fd72852",
+                "\n      <span>a {{c1::protein kinase}} catalyzes a reaction in which {{c2::an ATP phosphorylates the hydroxyl group on a serine, threonine or tyrosine sidechain of a protein.}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
+                "{\"dependencyHash\":\"6f4e71f1\",\"assets\":[]}"
+            ],
+            "guid": "MkZeU`]@d]",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27994-c8a3-4b1f-8722-be078b911c0e-cloze",
+                "66d27994-c8a3-4b1f-8722-be078b911c0e",
+                "\n      <span>{{c1::multivalent macromolecules}} are scaffold macromolecules that {{c2::have binding sites for itself and numerous other proteins or RNA molecules, and the binding sites are weak allowing frequent binding and dissociation}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
+                "{\"dependencyHash\":\"3497a4ca\",\"assets\":[]}"
+            ],
+            "guid": "Q)M:xhCjF/",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d279d0-9f24-49a1-924c-7c61268da391-cloze",
+                "66d279d0-9f24-49a1-924c-7c61268da391",
+                "\n      <span>{{c1::biomolecular condensates}} are weaker, less structured aggregates of {{c2::RNA molecules and proteins}} that are {{c2::less rigid and specific in their conformation than common macromolecular complexes such as ribosomes}}. They speed up reactions by {{c2::helping to keep certain proteins localized to certain regions of a cell to increase their local concentration}}.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
+                "{\"dependencyHash\":\"504ab32a\",\"assets\":[]}"
+            ],
+            "guid": "OGN9kp$8lz",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27a7b-da4d-40bb-8f8d-6cfedd89f7d9-cloze",
+                "66d27a7b-da4d-40bb-8f8d-6cfedd89f7d9",
+                "\n      <span>A {{c1::tRNA (transfer RNA)}} is a molecule that {{c2::matches codons with an anticodon and attaches amino acids to the growing polypeptide chain.}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cells_genomes_and_the_diversity_of_life\" title=\"cells_genomes_and_the_diversity_of_life\">cells_genomes_and_the_diversity_of_life</a>",
+                "{\"dependencyHash\":\"3cd51a14\",\"assets\":[]}"
+            ],
+            "guid": "w</3LG@TIg",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27aa5-49ef-4b55-984d-7af9187e503f-cloze",
+                "66d27aa5-49ef-4b55-984d-7af9187e503f",
+                "\n      <span>{{c1::plants}} fix {{c2::carbon}}, and {{c1::bacteria in the ground}} fix {{c2::nitrogen}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cells_genomes_and_the_diversity_of_life\" title=\"cells_genomes_and_the_diversity_of_life\">cells_genomes_and_the_diversity_of_life</a>",
+                "{\"dependencyHash\":\"67e9289c\",\"assets\":[]}"
+            ],
+            "guid": "OO*<xy->3|",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27b61-9b13-4add-b5a9-577c4054d2c9-multiline_card",
+                "66d27b61-9b13-4add-b5a9-577c4054d2c9",
+                "\n      <span>Four common sources of gene changes <a class=\"tag\" data-ref=\"flashcard\" href=\"logseq://graph/logs_1?page=flashcard\"></a> <a class=\"tag\" data-ref=\"incremental\" href=\"logseq://graph/logs_1?page=incremental\"></a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>gene duplication</span>\n     }}</li>\n<li class=\"children \">{{c3:: \n      <span>intragenic mutation</span>\n     }}</li>\n<li class=\"children \">{{c4:: \n      <span>dna segment shuffling</span>\n     }}</li>\n<li class=\"children \">{{c5:: \n      <span>horizontal dna transfer</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cells_genomes_and_the_diversity_of_life\" title=\"cells_genomes_and_the_diversity_of_life\">cells_genomes_and_the_diversity_of_life</a>",
+                "{\"dependencyHash\":\"5bb8146a\",\"assets\":[]}"
+            ],
+            "guid": "xKjWo-D>H/",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "flashcard",
+                "incremental"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27b7d-da36-41be-8cd4-ae6a904c5311-cloze",
+                "66d27b7d-da36-41be-8cd4-ae6a904c5311",
+                "\n      <span>{{c1::othologs}}: {{c2::genes that differ due to a speciation event}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cells_genomes_and_the_diversity_of_life\" title=\"cells_genomes_and_the_diversity_of_life\">cells_genomes_and_the_diversity_of_life</a>",
+                "{\"dependencyHash\":\"34c06e2a\",\"assets\":[]}"
+            ],
+            "guid": "Q6Sm,(JOT9",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "98f4129a-af08-43f0-acf5-8db510348979-cloze",
+                "98f4129a-af08-43f0-acf5-8db510348979",
+                "\n      <span>{{c1::paralogs}}: {{c2::genes that differ due to gene duplication and divergence in the same species}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cells_genomes_and_the_diversity_of_life\" title=\"cells_genomes_and_the_diversity_of_life\">cells_genomes_and_the_diversity_of_life</a>",
+                "{\"dependencyHash\":\"047866c4\",\"assets\":[]}"
+            ],
+            "guid": "El(E>Yd}@1",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27ba6-4091-453e-9547-3d81d3bd5b28-cloze",
+                "66d27ba6-4091-453e-9547-3d81d3bd5b28",
+                "\n      <span>{{c1::homologs}}: {{c2::the word for a relationship between genes that are either orthologs or paralogs.}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cells_genomes_and_the_diversity_of_life\" title=\"cells_genomes_and_the_diversity_of_life\">cells_genomes_and_the_diversity_of_life</a>",
+                "{\"dependencyHash\":\"d611f3c2\",\"assets\":[]}"
+            ],
+            "guid": "pb=JPna#V,",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27bca-0ef8-42ad-b8f9-0f53ab9c505c-cloze",
+                "66d27bca-0ef8-42ad-b8f9-0f53ab9c505c",
+                "\n      <span>{{c1::endocytosis}}: {{c2::the process by which a cell pulls in a molecule or organelle into its cytosome, encapsulating it in a vesicle.}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cells_genomes_and_the_diversity_of_life\" title=\"cells_genomes_and_the_diversity_of_life\">cells_genomes_and_the_diversity_of_life</a>",
+                "{\"dependencyHash\":\"92abb748\",\"assets\":[]}"
+            ],
+            "guid": "PqJ5&EwWc@",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27c2a-8937-4d6e-80b5-7c58334d995d-cloze",
+                "66d27c2a-8937-4d6e-80b5-7c58334d995d",
+                "\n      <span>{{c1::phagocytosis}}: {{c2::the process in which a cell envelops and \"eats\" other cells or particles}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cells_genomes_and_the_diversity_of_life\" title=\"cells_genomes_and_the_diversity_of_life\">cells_genomes_and_the_diversity_of_life</a>",
+                "{\"dependencyHash\":\"3d2d9721\",\"assets\":[]}"
+            ],
+            "guid": "M2Q-!9I#a.",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27c85-a198-449e-968d-c230a337f61f-cloze",
+                "66d27c85-a198-449e-968d-c230a337f61f",
+                "\n      <span>{{c1::vesicles}}: {{c2::tiny lipid membranes that contain fluid and molecules}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cells_genomes_and_the_diversity_of_life\" title=\"cells_genomes_and_the_diversity_of_life\">cells_genomes_and_the_diversity_of_life</a>",
+                "{\"dependencyHash\":\"c4836e8e\",\"assets\":[]}"
+            ],
+            "guid": "RhcKCAODy*",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27ccf-40b6-469e-8767-75bb85d62d27-multiline_card",
+                "66d27ccf-40b6-469e-8767-75bb85d62d27",
+                "\n      <span>The organelles enclosed in double membranes are <a class=\"tag\" data-ref=\"flashcard\" href=\"logseq://graph/logs_1?page=flashcard\"></a> <a class=\"tag\" data-ref=\"incremental\" href=\"logseq://graph/logs_1?page=incremental\"></a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>nucleus</span>\n     }}</li>\n<li class=\"children \">{{c3:: \n      <span>mitochondria</span>\n     }}</li>\n<li class=\"children \">{{c4:: \n      <span>chloroplasts</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cells_genomes_and_the_diversity_of_life\" title=\"cells_genomes_and_the_diversity_of_life\">cells_genomes_and_the_diversity_of_life</a>",
+                "{\"dependencyHash\":\"2d71aedd\",\"assets\":[]}"
+            ],
+            "guid": "rip3D!A[Di",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "flashcard",
+                "incremental"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27dde-4256-4310-a946-7b57798a5f10-cloze",
+                "66d27dde-4256-4310-a946-7b57798a5f10",
+                "\n      <span>The two most well-studied viruses that infect {{c1::e-coli}} are {{c2::lambda}} and {{c2::T4}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cells_genomes_and_the_diversity_of_life\" title=\"cells_genomes_and_the_diversity_of_life\">cells_genomes_and_the_diversity_of_life</a>",
+                "{\"dependencyHash\":\"3dfa9663\",\"assets\":[]}"
+            ],
+            "guid": "A<h7cABP)a",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27e25-d013-47c1-9f4b-57033986b453-cloze",
+                "66d27e25-d013-47c1-9f4b-57033986b453",
+                "\n      <span>{{c1::exocytosis}}: when a {{c2::vesicle}} or a {{c2::vacuole}} merges with the cell membrane and releases its contents into the extracellular fluid.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cells_genomes_and_the_diversity_of_life\" title=\"cells_genomes_and_the_diversity_of_life\">cells_genomes_and_the_diversity_of_life</a>",
+                "{\"dependencyHash\":\"69f1b710\",\"assets\":[]}"
+            ],
+            "guid": "s6AVJG/HF>",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27e6b-2815-4a59-97c5-96db2f7db84d-cloze",
+                "66d27e6b-2815-4a59-97c5-96db2f7db84d",
+                "\n      <span>nucleotides are made up of a {{c1::sugar backbone}}, a {{c2::phosphate group}}, and a {{c3::base or nucleobase}}.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cells_genomes_and_the_diversity_of_life\" title=\"cells_genomes_and_the_diversity_of_life\">cells_genomes_and_the_diversity_of_life</a>",
+                "{\"dependencyHash\":\"6e46f9c8\",\"assets\":[]}"
+            ],
+            "guid": "iby<X,`9ss",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27f2c-ebc3-4669-91fd-b97289b21068-cloze",
+                "66d27f2c-ebc3-4669-91fd-b97289b21068",
+                "\n      <span>Lipids are made in the {{c1::Golgi apparatus}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cells_genomes_and_the_diversity_of_life\" title=\"cells_genomes_and_the_diversity_of_life\">cells_genomes_and_the_diversity_of_life</a>",
+                "{\"dependencyHash\":\"45e23bd8\",\"assets\":[]}"
+            ],
+            "guid": "G0!g4&8Rbo",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d27f86-9b4c-447c-a10a-77ce7cba6947-cloze",
+                "66d27f86-9b4c-447c-a10a-77ce7cba6947",
+                "\n      <span>The origins of eukaryotes are when {{c1::an archaeon absorbed a bacterium}}.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=cells_genomes_and_the_diversity_of_life\" title=\"cells_genomes_and_the_diversity_of_life\">cells_genomes_and_the_diversity_of_life</a>",
+                "{\"dependencyHash\":\"19bb9fb8\",\"assets\":[]}"
+            ],
+            "guid": "O/HS<dh61}",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}

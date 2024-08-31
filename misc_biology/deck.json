@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "97bb738d-6696-11ef-bc29-68cac4949555",
+    "crowdanki_uuid": "6bae74f2-6749-11ef-b424-68cac4949555",
     "deck_config_uuid": "97bc4121-6696-11ef-bd12-68cac4949555",
     "deck_configurations": [
         {
@@ -77,7 +77,7 @@
         "_logseq_anki_sync_front.css",
         "_logseq_anki_sync_front.js"
     ],
-    "name": "biology",
+    "name": "misc_biology",
     "newLimit": null,
     "newLimitToday": null,
     "note_models": [
@@ -220,10 +220,10 @@
             "fields": [
                 "66d14c61-acad-40f7-a013-8495970f3826-multiline_card",
                 "66d14c61-acad-40f7-a013-8495970f3826",
-                "{{c2::\n      <span>Cell synchronization <a class=\"tag\" data-ref=\"card\" href=\"logseq://graph/logs_1?page=card\"></a> <a class=\"tag\" data-ref=\"bidirectional\" href=\"logseq://graph/logs_1?page=bidirectional\"></a></span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>When the mitotic division cycles of cells in a dish are aligned and in phase with one another</span>\n     }}</li></ul>",
+                "{{c2::\n      <span>Cell synchronization <a class=\"tag\" data-ref=\"card\" href=\"logseq://graph/logs_1?page=card\"></a> <a class=\"tag\" data-ref=\"bidirectional\" href=\"logseq://graph/logs_1?page=bidirectional\"></a>\n        <br>\n</span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>When the mitotic division cycles of cells in a dish are aligned and in phase with one another</span>\n     }}</li></ul>",
                 "",
-                "<a href=\"logseq://graph/logs_1?page=anki%2Fbiology\" title=\"anki/biology\">anki/biology</a>",
-                "{\"dependencyHash\":\"6cd4559b\",\"assets\":[]}"
+                "<a href=\"logseq://graph/logs_1?page=anki%2Fbiology%2Fmisc\" title=\"anki/biology/misc\">anki/biology/misc</a>",
+                "{\"dependencyHash\":\"7e2fee98\",\"assets\":[]}"
             ],
             "guid": "q$$)1eDvoG",
             "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
