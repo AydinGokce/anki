@@ -223,7 +223,7 @@
                 "\n      <span>water molecules are liquid at room temperature with a high surface tension and boiling point because. <a class=\"tag\" data-ref=\"card\" href=\"logseq://graph/logs_1?page=card\"></a> <a class=\"tag\" data-ref=\"forward\" href=\"logseq://graph/logs_1?page=forward\"></a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>The hydrogen bonds between oxygen and hydrogen of different molecules are constantly forming and breaking due to heat. In this sense, water is essentially a network.</span>\n     }}</li></ul>",
                 "",
                 "<a href=\"logseq://graph/logs_1?page=cell_chemistry_and_bioenergetics\" title=\"cell_chemistry_and_bioenergetics\">cell_chemistry_and_bioenergetics</a>",
-                "{\"dependencyHash\":\"14916e60\",\"assets\":[]}"
+                "{\"dependencyHash\":\"7045ec07\",\"assets\":[]}"
             ],
             "guid": "KT|iQl&|1(",
             "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
@@ -684,7 +684,7 @@
                 "\n      <span>Two common types of structures found in proteins: {{c1::alpha helices}} and {{c1::beta sheets}}</span>\n    ",
                 "",
                 "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
-                "{\"dependencyHash\":\"4cf3fead\",\"assets\":[]}"
+                "{\"dependencyHash\":\"3110f38d\",\"assets\":[]}"
             ],
             "guid": "y,j$[pP:79",
             "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
@@ -698,7 +698,7 @@
                 "\n      <span>Is the 3D structure or the amino acid sequence more conserved in proteins? {{c1::structure}}</span>\n    ",
                 "",
                 "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
-                "{\"dependencyHash\":\"7751ee8b\",\"assets\":[]}"
+                "{\"dependencyHash\":\"199b1995\",\"assets\":[]}"
             ],
             "guid": "L#p&Uuh+RG",
             "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
@@ -712,7 +712,7 @@
                 "\n      <span>Some {{c1::macromolecular complexes}} require enzymes that {{c1::assist with building the complex}}, called {{c2::assembly factors}}</span>\n    ",
                 "",
                 "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
-                "{\"dependencyHash\":\"25ee5f42\",\"assets\":[]}"
+                "{\"dependencyHash\":\"57802c70\",\"assets\":[]}"
             ],
             "guid": "zD[UK,%VBt",
             "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
@@ -726,7 +726,7 @@
                 "\n      <span>Some {{c1::macromolecular complexes}} form spontaneously when {{c2::their subunits are dissociated and mixed together}}, like the tobacco mosaic virus and ribosomes.</span>\n    ",
                 "",
                 "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
-                "{\"dependencyHash\":\"1505e617\",\"assets\":[]}"
+                "{\"dependencyHash\":\"5817595a\",\"assets\":[]}"
             ],
             "guid": "zxq/w80*(R",
             "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
@@ -740,7 +740,7 @@
                 "\n      <span>{{c1::feedback}} or {{c1::negative inhibition}} is when a {{c2::product from a reaction late in a pathway inhibits an enzyme upstream of the pathway to slow the catalysis as the end product accumulates}}.</span>\n    ",
                 "",
                 "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
-                "{\"dependencyHash\":\"0b45cc4e\",\"assets\":[]}"
+                "{\"dependencyHash\":\"4b4b479f\",\"assets\":[]}"
             ],
             "guid": "oECOU(,em@",
             "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
@@ -754,7 +754,7 @@
                 "\n      <span>The term for when {{c1::a molecule binds to a protein and changes its function by causing a change in its conformation}} is called {{c2::allostery}}.</span>\n    ",
                 "",
                 "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
-                "{\"dependencyHash\":\"60cc1f5c\",\"assets\":[]}"
+                "{\"dependencyHash\":\"65cfeee6\",\"assets\":[]}"
             ],
             "guid": "PaoZW7yeJD",
             "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
@@ -768,7 +768,7 @@
                 "\n      <span>{{c1::phosphorylation}}  refers to the process of {{c2::adding a phosphate group to a protein through a covalent bond}}</span>\n    ",
                 "",
                 "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
-                "{\"dependencyHash\":\"4a9c65eb\",\"assets\":[]}"
+                "{\"dependencyHash\":\"8ec52692\",\"assets\":[]}"
             ],
             "guid": "x<@&d:1E/A",
             "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
@@ -782,7 +782,7 @@
                 "\n      <span>Three common ways in which phosphate groups affect protein function <a class=\"tag\" data-ref=\"flashcard\" href=\"logseq://graph/logs_1?page=flashcard\"></a> <a class=\"tag\" data-ref=\"incremental\" href=\"logseq://graph/logs_1?page=incremental\"></a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>phosphates have two negative charges, so they affect protein conformation</span>\n     }}</li>\n<li class=\"children \">{{c3:: \n      <span>they can inhibit active sites</span>\n     }}</li>\n<li class=\"children \">{{c4:: \n      <span>they can form parts of structures recognized by other proteins</span>\n     }}</li></ul>",
                 "",
                 "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
-                "{\"dependencyHash\":\"6a8ea944\",\"assets\":[]}"
+                "{\"dependencyHash\":\"b3927ba8\",\"assets\":[]}"
             ],
             "guid": "dH/-=}RaMB",
             "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
@@ -799,7 +799,7 @@
                 "\n      <span>a {{c1::phosphatase}} is {{c2::an enzyme that removes a phosphate group from a protein}}.</span>\n    ",
                 "",
                 "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
-                "{\"dependencyHash\":\"39138f5a\",\"assets\":[]}"
+                "{\"dependencyHash\":\"683a323a\",\"assets\":[]}"
             ],
             "guid": "r><o{L||y,",
             "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
@@ -813,7 +813,7 @@
                 "\n      <span>a {{c1::protein kinase}} catalyzes a reaction in which {{c2::an ATP phosphorylates the hydroxyl group on a serine, threonine or tyrosine sidechain of a protein.}}</span>\n    ",
                 "",
                 "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
-                "{\"dependencyHash\":\"6f4e71f1\",\"assets\":[]}"
+                "{\"dependencyHash\":\"669daffe\",\"assets\":[]}"
             ],
             "guid": "MkZeU`]@d]",
             "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
@@ -827,7 +827,7 @@
                 "\n      <span>{{c1::multivalent macromolecules}} are scaffold macromolecules that {{c2::have binding sites for itself and numerous other proteins or RNA molecules, and the binding sites are weak allowing frequent binding and dissociation}}</span>\n    ",
                 "",
                 "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
-                "{\"dependencyHash\":\"3497a4ca\",\"assets\":[]}"
+                "{\"dependencyHash\":\"18c98094\",\"assets\":[]}"
             ],
             "guid": "Q)M:xhCjF/",
             "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
@@ -841,7 +841,7 @@
                 "\n      <span>{{c1::biomolecular condensates}} are weaker, less structured aggregates of {{c2::RNA molecules and proteins}} that are {{c2::less rigid and specific in their conformation than common macromolecular complexes such as ribosomes}}. They speed up reactions by {{c2::helping to keep certain proteins localized to certain regions of a cell to increase their local concentration}}.</span>\n    ",
                 "",
                 "<a href=\"logseq://graph/logs_1?page=proteins\" title=\"proteins\">proteins</a>",
-                "{\"dependencyHash\":\"504ab32a\",\"assets\":[]}"
+                "{\"dependencyHash\":\"ee3b79f6\",\"assets\":[]}"
             ],
             "guid": "OGN9kp$8lz",
             "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
@@ -855,7 +855,7 @@
                 "\n      <span>A {{c1::tRNA (transfer RNA)}} is a molecule that {{c2::matches codons with an anticodon and attaches amino acids to the growing polypeptide chain.}}</span>\n    ",
                 "",
                 "<a href=\"logseq://graph/logs_1?page=cells_genomes_and_the_diversity_of_life\" title=\"cells_genomes_and_the_diversity_of_life\">cells_genomes_and_the_diversity_of_life</a>",
-                "{\"dependencyHash\":\"3cd51a14\",\"assets\":[]}"
+                "{\"dependencyHash\":\"700642dc\",\"assets\":[]}"
             ],
             "guid": "w</3LG@TIg",
             "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
@@ -1062,6 +1062,276 @@
             "guid": "O/HS<dh61}",
             "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3be79-853f-4f4a-8931-25cfb2700789-cloze",
+                "66d3be79-853f-4f4a-8931-25cfb2700789",
+                "\n      <span>The base pairs of DNA are held together by {{c1::hydrogen}} bonds</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"76c667ca\",\"assets\":[]}"
+            ],
+            "guid": "j{+>cYQT02",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3bac0-7167-4f6d-96cd-7a286b559a10-cloze",
+                "66d3bac0-7167-4f6d-96cd-7a286b559a10",
+                "\n      <span>The two terminals of eukaryotic mRNA are referred to as the {{c1::3' cap}} and the {{c2::5' cap}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"beee69e6\",\"assets\":[]}"
+            ],
+            "guid": "De:<Iy_kTi",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3bc46-2d1a-4aa0-b76b-5c9f2b95dd6c-cloze",
+                "66d3bc46-2d1a-4aa0-b76b-5c9f2b95dd6c",
+                "\n      <span>m7G, which is found on the {{c1::5' cap}} of eukaryotic mRNA, stands for {{c2::7-methylguanosine}}, whose purpose is, among many things, to {{c3::protect the mRNA from degradation}}, {{c4::assist in ribosome binding for transcription}}, and {{c5::aid in nuclear export}}.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"da8fb6c4\",\"assets\":[]}"
+            ],
+            "guid": "KJgcWo]@:X",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3bda4-ac2f-42c8-be30-9bb6702c38dc-multiline_card",
+                "66d3bda4-ac2f-42c8-be30-9bb6702c38dc",
+                "{{c2::\n      <span>Nuclear export <a class=\"tag\" data-ref=\"flashcard\" href=\"logseq://graph/logs_1?page=flashcard\"></a> <a class=\"tag\" data-ref=\"bidirectional\" href=\"logseq://graph/logs_1?page=bidirectional\"></a></span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>the term for the process by which molecules, such as RNA and proteins, are transported from the nucleus of a eukaryotic cell into the cytoplasm</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"72f15bdd\",\"assets\":[]}"
+            ],
+            "guid": "G85p_e`x^g",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "bidirectional",
+                "flashcard"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3bde2-54e9-41d5-a4b1-6bd90d8464aa-cloze",
+                "66d3bde2-54e9-41d5-a4b1-6bd90d8464aa",
+                "\n      <span>in eukaryotic cells, mRNA translation starts from the {{c1::5'}} and end of the mRNA and scans towards the {{c2::3'}} end of the mRNA.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"583ab71b\",\"assets\":[]}"
+            ],
+            "guid": "u0,Gb.BtjY",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3c2f6-c367-4c80-a44d-6c6b567de298-cloze",
+                "66d3c2f6-c367-4c80-a44d-6c6b567de298",
+                "\n      <span>In a strand of DNA or RNA, the end with the {{c1::phosphate}} is the {{c2::5'}} terminal and the end with the {{c1::sugar}} is the {{c2::3'}} terminal.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"1fc1cb0c\",\"assets\":[]}"
+            ],
+            "guid": "vyrNANW<8?",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3c33e-c2ab-4e2f-81c0-439521f7a577-cloze",
+                "66d3c33e-c2ab-4e2f-81c0-439521f7a577",
+                "\n      <span>subsequent sugars in a DNA strand are held together by a {{c1::phosphodiester}} bond.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"32a2d35d\",\"assets\":[]}"
+            ],
+            "guid": "dc+bNB]8:1",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3c3f4-1927-4d01-8af8-974589cf4797-cloze",
+                "66d3c3f4-1927-4d01-8af8-974589cf4797",
+                "\n      <span>The DNA double helix does a complete turn every {{c1::10.4}} base pairs.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"20bff243\",\"assets\":[]}"
+            ],
+            "guid": "fZSPmvOJ//",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3c409-51ba-4090-8676-012cc4d3f123-multiline_card",
+                "66d3c409-51ba-4090-8676-012cc4d3f123",
+                "{{c2::\n      <span>Nuclear envelope <a class=\"tag\" data-ref=\"flashcard\" href=\"logseq://graph/logs_1?page=flashcard\"></a> <a class=\"tag\" data-ref=\"bidirectional\" href=\"logseq://graph/logs_1?page=bidirectional\"></a></span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>A double membrane of concentric lipid bilayers containing the nucleus</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"21d18a8f\",\"assets\":[]}"
+            ],
+            "guid": "AV[|?*au|K",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "bidirectional",
+                "flashcard"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3c5fa-f3a6-4723-b0bd-de3e787323fc-cloze",
+                "66d3c5fa-f3a6-4723-b0bd-de3e787323fc",
+                "\n      <span>The {{c1::endoplasmic reticulum}} is a complex of intracellular folded membranes that extends from the {{c2::nucleus}} into the {{c3::cytoplasm}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"17688fbe\",\"assets\":[]}"
+            ],
+            "guid": "B$j![LFRxO",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3c63a-6481-4981-b60d-2ccd4cb22767-multiline_card",
+                "66d3c63a-6481-4981-b60d-2ccd4cb22767",
+                "{{c2::\n      <span>nuclear lamina <a class=\"tag\" data-ref=\"flashcard\" href=\"logseq://graph/logs_1?page=flashcard\"></a> <a class=\"tag\" data-ref=\"bidirectional\" href=\"logseq://graph/logs_1?page=bidirectional\"></a></span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>thin, felt-like mesh just beneath the inner membrane of the nuclear envelope that helps structure the nucleus</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"78dde39c\",\"assets\":[]}"
+            ],
+            "guid": "K/*Bt[+sNN",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "bidirectional",
+                "flashcard"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3c753-27e5-400f-8985-3c89f6c51bd7-multiline_card",
+                "66d3c753-27e5-400f-8985-3c89f6c51bd7",
+                "{{c2::\n      <span>Chromatin <a class=\"tag\" data-ref=\"flashcard\" href=\"logseq://graph/logs_1?page=flashcard\"></a> <a class=\"tag\" data-ref=\"bidirectional\" href=\"logseq://graph/logs_1?page=bidirectional\"></a></span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>The complex of DNA and tightly bound associated proteins</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"610574ba\",\"assets\":[]}"
+            ],
+            "guid": "n:I9mN+/J1",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "bidirectional",
+                "flashcard"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3c828-d366-45c2-b99e-16597ab134a1-cloze",
+                "66d3c828-d366-45c2-b99e-16597ab134a1",
+                "\n      <span>Each human cell (except for gametes and other special cases) contains {{c1::46}} chromosomes, or {{c1::23}} pairs.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"72cc63c5\",\"assets\":[]}"
+            ],
+            "guid": "M;kI/CQ@]*",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3c99a-aace-4cc4-aca8-c9acff5c9482-cloze",
+                "66d3c99a-aace-4cc4-aca8-c9acff5c9482",
+                "\n      <span>Of the 23 pairs of chromosomes in normal cells, {{c1::22}} are homologs and {{c1::1}} is/are heterologs.</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"0996e3fe\",\"assets\":[]}"
+            ],
+            "guid": "sH=~{W6sp}",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3ca29-af7a-4ee5-ac16-dcc024e16ba0-swift_arrow",
+                "66d3ca29-af7a-4ee5-ac16-dcc024e16ba0",
+                "\n      <span>Which varies more from species to species? Gene count or non-coding DNA count? <b>:-></b> {{c1::non-coding DNA count}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"c0b5a5b8\",\"assets\":[]}"
+            ],
+            "guid": "Ob`fW$u1^A",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3ca94-6d43-44be-bfdc-44b67f7ef5a8-multiline_card",
+                "66d3ca94-6d43-44be-bfdc-44b67f7ef5a8",
+                "{{c2::\n      <span>karyotype <a class=\"tag\" data-ref=\"flashcard\" href=\"logseq://graph/logs_1?page=flashcard\"></a> <a class=\"tag\" data-ref=\"bidirectional\" href=\"logseq://graph/logs_1?page=bidirectional\"></a></span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>The number and visual appearance of chromosomes in the nuclei of an organism or species</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"3e67f184\",\"assets\":[]}"
+            ],
+            "guid": "u#cbE5.#w(",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "bidirectional",
+                "flashcard"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3cba1-227f-443d-83b8-c16cbb6ead03-swift_arrow",
+                "66d3cba1-227f-443d-83b8-c16cbb6ead03",
+                "\n      <span>[T/F]: How the genome is divided into chromosomes varies significantly, even in neighboring species. <b>:-></b> {{c1::True}}</span>\n    ",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"1a6d4b40\",\"assets\":[]}"
+            ],
+            "guid": "P4WjnJSliV",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "66d3cbf7-0cb8-44ea-b755-80e4273c5e35-multiline_card",
+                "66d3cbf7-0cb8-44ea-b755-80e4273c5e35",
+                "{{c2::\n      <span>pseudogene <a class=\"tag\" data-ref=\"flashcard\" href=\"logseq://graph/logs_1?page=flashcard\"></a> <a class=\"tag\" data-ref=\"bidirectional\" href=\"logseq://graph/logs_1?page=bidirectional\"></a></span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children \">{{c1:: \n      <span>A DNA sequence that resembles an existing coding gene, but has too many mutations to be properly expressed.</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logs_1?page=dna_chromosomes_and_genomes\" title=\"dna_chromosomes_and_genomes\">dna_chromosomes_and_genomes</a>",
+                "{\"dependencyHash\":\"32a18a78\",\"assets\":[]}"
+            ],
+            "guid": "dA)&V.arN>",
+            "note_model_uuid": "97bc6342-6696-11ef-aad7-68cac4949555",
+            "tags": [
+                "bidirectional",
+                "flashcard"
+            ]
         }
     ],
     "reviewLimit": null,
